@@ -55,7 +55,7 @@ class AlienInvasion:
             self.ship.move_left = False
 
 
-
+#今晚继续更新
 
 
     def _update_screen(self):
