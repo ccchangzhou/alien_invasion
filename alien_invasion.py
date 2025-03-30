@@ -6,7 +6,7 @@ from ship import Ship
 from bullet import Bullet
 from alien import Alien
 
-#Git push for Git Bash
+#Git push for Git Bash 2
 class AlienInvasion:
     """ 管理游戏资源和行为的类 """
     def __init__(self):
